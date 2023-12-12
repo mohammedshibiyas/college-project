@@ -1,0 +1,21 @@
+.dp{
+    width: 10%;
+    margin-top: 30px;
+}
+.staffreg-main{
+ background: white;
+}
+.staffreg-card{
+    background: white;
+}
+.staffreg-card h4{
+    color: rgb(96, 184, 96);
+}
+.staff-reg-form input{
+    border:2px solid rgb(96, 184, 96);
+    color: black;
+}
+#edit-btn{
+    background-color: rgb(96, 184, 96);
+    border:2px solid rgb(96, 184, 96);
+}

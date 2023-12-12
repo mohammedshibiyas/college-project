@@ -1,0 +1,47 @@
+.studentlogin-main{
+    background: white;
+    height: 92vh;
+    padding-top: 9%;
+}
+.student-login-card-heading{
+    text-align: center;
+}
+.studentlogin-card{
+    border: 2px solid rgb(96, 184, 96);
+    background-color:white ;
+    width: 30%;
+    height: auto;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px;
+}
+.studentlogin-card h4{
+    color: rgb(96, 184, 96);
+    font-weight: 800;
+}
+.student-login-form{
+    /* background-color: red; */
+    text-align: center;
+}
+.student-login-form input{
+    background-color: transparent;
+    border: 2px solid rgb(96, 184, 96) !important ;
+    margin-top: 20px;
+    width: 60%;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.studentlogin-card button{
+    background-color: rgb(96, 184, 96);
+    border: 2px solid rgb(96, 184, 96) ;
+    color: white;
+    font-weight: 800;
+    margin-top: 20px;
+    padding: 5px 16px;
+    border-radius: 5px;
+}
+.student-login-ihave-ac{
+    text-align: center;
+    margin-top: 20px;
+}

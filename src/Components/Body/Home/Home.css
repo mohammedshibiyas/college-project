@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Kanit:wght@300&family=Poppins&display=swap');
+/* font-family: 'Josefin Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Poppins', sans-serif;
+ rgb(96, 184, 96) */
+
+body{
+    font-family: 'Poppins', sans-serif; 
+    
+}
+.home-main{
+    /* display: flex; */
+    height: 100vh;
+    padding-top: 10%;
+    justify-content: center;
+    background: white;
+}
+
+#main-head{
+    color:rgb(96, 184, 96) ;
+    font-weight: 700;
+    text-align: center;
+    
+}
+.home-main-left{
+    width: 60%;
+    padding-top: 12%;
+    padding-left: 10%;
+}
+.clg-name{
+    /* background-color: black; */
+    padding: 40px;
+    border-left: 3px solid rgb(96, 184, 96);
+}
+.home-main-right{
+    width: 40%;
+    display: flex;
+    align-items: center;
+}
+.home-main-left,.home-main-right{
+    height: 92vh;
+}
+.home-main-left h1{
+    font-weight: 900;
+    letter-spacing: 2px;
+    font-size: 50px;
+    color: rgb(96, 184, 96);
+    margin-bottom: 40px;
+}
+.home-contctus-btn,.home-aboutus-btn{
+    text-decoration: none;
+    color: rgb(96, 184, 96);
+    padding: 9px 20px;
+    margin-right: 20px;
+    border: 2px solid rgb(96, 184, 96);
+    border-radius: 40px;
+    transition: .3s;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+.home-aboutus-btn:hover{
+    background-color: rgb(96, 184, 96);
+    color: #2e3047;
+}
+.home-contctus-btn:hover{
+    background-color: rgb(96, 184, 96);
+    color: #2e3047;
+}
+
+.home-actype-main-card{
+   border: 3px solid  rgb(96, 184, 96);
+   border-radius: 10px;
+    height: 300px;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    padding-bottom: 40px;
+    width: 400px;
+}
+.home-actype-main-card h3{
+    color: rgb(96, 184, 96);
+    font-weight: 700;
+}
+.home-btns{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.home-admin-btn,.home-staff-btn,.home-student-btn{
+    background-color:rgb(96, 184, 96);
+    margin-bottom: 10px !important;
+    padding: 7px 60px;
+    border: 2px solid rgb(96, 184, 96);
+    color: white;
+    font-weight: 700;
+    width: 80%;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.home-admin-btn{
+    padding: 7px 65px;
+}
+.home-staff-btn{
+    padding: 7px 72px;
+}
+.home-admin-btn:hover{
+    background-color: transparent;
+    color: rgb(96, 184, 96);
+}
+.home-staff-btn:hover{
+    background-color: transparent;
+    color: rgb(96, 184, 96);
+}
+.home-student-btn:hover{
+    background-color: transparent;
+    color: rgb(96, 184, 96);
+}
+
+@media (min-width:300px) and (max-width:575.98px){
+    .home-main{
+        display: inline;
+    }
+}

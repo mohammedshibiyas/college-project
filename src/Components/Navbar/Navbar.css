@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&family=Kanit:wght@300&family=Poppins&family=Satisfy&display=swap');
+.navbar{
+    background-color:rgb(96, 184, 96);;
+  
+}
+.navbar-brand{
+    margin-right: 34%;
+    color: rgb(96, 184, 96);;
+    text-shadow:0px 0px 10px rgb(96, 184, 96),
+                0px 0px 20px rgb(96, 184, 96);
+    /* font-family: 'Satisfy', cursive; */
+    font-weight: 900;
+    letter-spacing: 7px;
+}
+.nav-link{
+    color: white !important;
+    font-weight: 600;
+    letter-spacing: 1px;
+  
+}
+.nav-link:hover{
+    text-shadow:0px 0px 10px rgb(96, 184, 96);
+    /* 0px 0px 20px #53d3d1; */
+}
+.nav-admin-name{
+    color: rgb(96, 184, 96);;
+    margin-left: 45%;
+    
+}

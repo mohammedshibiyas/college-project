@@ -1,0 +1,54 @@
+.adminreg-main{
+    background: white;
+    height: 92vh;
+    padding-top: 9%;
+}
+.admin-reg-card-heading{
+    text-align: center;
+}
+.adminreg-card{
+    border: 2px solid rgb(96, 184, 96);
+    /* background-color:rgb(255, 255, 255) ; */
+    width: 30%;
+    height: auto;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px;
+}
+.adminreg-main h4{
+    color: rgb(96, 184, 96);
+    font-weight: 800;
+}
+.admin-reg-form{
+    /* background-color: red; */
+    text-align: center;
+}
+.admin-reg-form input{
+    background-color: transparent;
+    border: 2px solid rgb(96, 184, 96);
+    margin-top: 20px;
+    width: 60%;
+    height: 40px;
+    color: black;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.admin-reg-form input:hover{
+    box-shadow: 0px 0px 9px 0px  rgb(96, 184, 96);
+}
+.adminreg-card button{
+    background-color: rgb(96, 184, 96);
+    border: 2px solid rgb(96, 184, 96) ;
+    color: white;
+    margin-top: 20px;
+    font-weight: 800;
+    padding: 5px 16px;
+    border-radius: 5px;
+}
+.admn-reg-ihave-ac{
+    text-align: center;
+    margin-top: 20px;
+}
+.admn-reg-ihave-ac-text{
+    color: rgba(0, 0, 0, 0.501);
+}

@@ -1,0 +1,66 @@
+.stafflogin-main{
+    background: white;
+    height: 92vh;
+    padding-top: 9%;
+}
+.staff-login-card-heading{
+    text-align: center;
+}
+.stafflogin-card{
+    border: 2px solid  rgb(96, 184, 96);
+    background-color:white ;
+    width: 30%;
+    height: auto;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px;
+}
+.stafflogin-card h4{
+    color:  rgb(96, 184, 96);
+    font-weight: 800;
+}
+.staff-login-form{
+    /* background-color: red; */
+    text-align: center;
+}
+.staff-login-form input{
+    background-color: transparent;
+    border: 2px solid  rgb(96, 184, 96) ;
+    margin-top: 20px;
+    width: 60%;
+    color:  rgb(96, 184, 96);
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.stafflogin-card button{
+    background-color:  rgb(96, 184, 96);
+    border: 2px solid  rgb(96, 184, 96);
+    color: white;
+    margin-top: 20px;
+    padding: 5px 16px;
+    font-weight: 800;
+    border-radius: 5px;
+}
+.staff-login-ihave-ac{
+    text-align: center;
+    margin-top: 20px;
+}
+.forgot-pwd-div{
+    /* tex t-align: right; */
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    /* background-color: yellow; */
+    margin: auto;
+}
+.forgot-pwd{
+    font-size: 12px;
+    /* text-decoration: none; */
+    color:  rgb(96, 184, 96);
+    text-align: right;
+}
+.forgot-pwd:hover{
+    color:  rgb(96, 184, 96);
+}

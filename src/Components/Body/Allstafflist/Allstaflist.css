@@ -1,0 +1,63 @@
+.allstafflist-heading{
+    text-align: center;
+    color: rgb(96, 184, 96);
+}
+.list-of-staffs{
+    padding-top: 70px;
+}
+.staff-card{
+    height: auto;
+    width: 90%;
+   transition: .2s;
+    /* background-color: yellow; */
+    border: 2px solid rgb(96, 184, 96);
+    border-radius: 7px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.staff-card:hover{
+    transform: scale(1.04);
+}
+.card-link{
+    text-decoration: none;
+}
+.card-para{
+    color: red;
+    text-align: center;
+    margin-top: 0 !important;
+    font-size: 12px;
+}
+.staff-dp{
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.385);
+    overflow: hidden;
+}
+.staff-dp img{
+    width: 100%;
+  
+}
+.card-heading{
+    color: rgb(96, 184, 96);
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 800;
+    letter-spacing: 3px;
+    margin-bottom: 0 !important;
+    font-size: 20PX;
+}
+.allstaff-delete-view-btns{
+    text-align: center;
+    padding-top:30px;
+}
+.allstaff-delete-btn{
+    text-decoration: none;
+    background-color: rgb(96, 184, 96);
+    color: white;
+    padding: 7px 98px;
+    /* width: 90% !important; */
+    font-weight: 800;
+    border-radius: 5px;
+}

@@ -1,0 +1,51 @@
+.adminlogin-main{
+    background: white;
+    height: 92vh;
+    padding-top: 9%;
+}
+.admin-login-card-heading{
+    text-align: center;
+}
+.adminlogin-card{
+    border: 2px solid rgb(96, 184, 96);
+    /* background-color:rgb(255, 255, 255) ; */
+    width: 30%;
+    height: auto;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px;
+}
+.adminlogin-main h4{
+    color: rgb(96, 184, 96);
+    font-weight: 800;
+}
+.admin-login-form{
+    /* background-color: red; */
+    text-align: center;
+}
+.reg-btn{
+    padding-top: 30px;
+}
+.regbtn{
+    color: rgba(0, 0, 0, 0.399);
+    text-decoration: none;
+}
+.admin-login-form input{
+    background-color: transparent !important;
+    border: 2px solid rgb(96, 184, 96) ;
+    margin-top: 20px;
+    color: black    ;
+    width: 60%;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.adminlogin-card button{
+    background-color: rgb(96, 184, 96);
+    border: 2px solid rgb(96, 184, 96) ;
+    color: white;
+    margin-top: 20px;
+    font-weight: 700;
+    padding: 5px 16px;
+    border-radius: 5px;
+}

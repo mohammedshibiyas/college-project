@@ -1,0 +1,51 @@
+.staff-forgot-card{
+    width: 27%;
+    height: auto;
+    border: 2px solid rgb(96, 184, 96);
+    margin: auto;
+    margin-top: 140px;
+    border-radius: 6px;
+    padding: 20px;
+}
+.staff-forgot-form{
+    /* background-color: yellow; */
+    width: 80%;
+    padding-top:20px;
+    margin: auto;
+    text-align: center;
+}
+.staff-forgot-form button{
+    background-color: rgb(96, 184, 96);
+    color: white;
+    font-size: 15px;
+    padding: 6px 20px;
+    margin-top: 30px;
+    font-weight: 800;
+    text-align: center;
+    border: 2px solid rgb(96, 184, 96);
+    border-radius: 5px;
+}
+.staff-forgot-form input{
+    width: 100%;
+    color: rgb(96, 184, 96);
+    background-color: transparent;
+    border: 2px solid rgb(96, 184, 96);
+    border-radius: 5px;
+    padding: 7px;
+}
+.staff-forgot-form p{
+    margin-top: 20px;
+    color: rgb(96, 184, 96);
+}
+.staff-forgot-card h5{
+    text-align: center;
+    color: red;
+}
+.stf-frgt-usr{
+    background-color: rgb(96, 184, 96);
+    color: white;
+    padding: 4px 40px;
+    font-weight: 800;
+    border-radius: 6px;
+    text-decoration: none;
+}

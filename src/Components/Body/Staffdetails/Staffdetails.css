@@ -1,0 +1,65 @@
+.staffdetails-main-card{
+    /* background-color: rgba(255, 255, 255, 0.218); */
+    border: 2px solid rgb(96, 184, 96) ;
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 7px;
+    display: flex;
+    padding: 15px;
+}
+.staffdetails-main-card-left{
+    /* background-color: red; */
+    height: auto;
+    width: 40%;
+    padding: 10px;
+    text-align: center;
+    border-right: 2px solid rgb(96, 184, 96)3e;
+}
+.staffdetails-main-card-right{
+    background-color: white;
+    height: 300px;
+    padding-left: 30px;
+    width: 60%;
+}
+.staffdp{
+    overflow: hidden;
+    background-color: white;
+    height: 190px;
+    width: 190px;
+    margin: auto;
+    border-radius: 50%;
+}
+.staffdp img{
+    width: 100%;
+}
+.staffdetails-name{
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(96, 184, 96);
+    margin-bottom: 0 !important;
+}
+.staffdetails-email{
+    margin-bottom: 40px;
+    color: red;
+}
+i{
+    margin-right: 10px;
+}
+.staffdetails-edit-btn{
+    text-decoration: none;
+    background-color: rgb(96, 184, 96);
+    color: white;
+    font-weight: 800;
+    border-radius: 3px;
+    padding: 4px 60px;
+}
+.staffdetails-th{
+    color: #b7ada1;
+    height: 52px;
+    width: 130px;
+}
+.staffdetails-td{
+    color: #2e3047;
+}

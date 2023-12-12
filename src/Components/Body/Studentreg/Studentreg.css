@@ -1,0 +1,46 @@
+.studentreg-main{
+    background: white;
+    height: 92vh;
+    padding-top: 9%;
+}
+.student-reg-card-heading{
+    text-align: center;
+}
+.studentreg-card{
+    border: 2px solid rgb(96, 184, 96);
+    background-color:white ;
+    width: 30%;
+    height: auto;
+    margin: auto;
+    border-radius: 8px;
+    padding: 20px;
+}
+.studentreg-card h4{
+    color: rgb(96, 184, 96);
+    font-weight: 800;
+}
+.student-reg-form{
+    /* background-color: red; */
+    text-align: center;
+}
+.student-reg-form input{
+    background-color: transparent;
+    border: 2px solid rgb(96, 184, 96) !important ;
+    margin-top: 20px;
+    width: 60%;
+    height: 40px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.studentreg-card button{
+    background-color: rgb(96, 184, 96);
+    border: 2px solid rgb(96, 184, 96) ;
+    color: white;
+    margin-top: 20px;
+    padding: 5px 16px;
+    border-radius: 5px;
+}
+.student-reg-ihave-ac{
+    text-align: center;
+    margin-top: 20px;
+}
